@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Pedro Henrique — Desenvolvedor Front-end em Formação
 
-<!--
-**Pedro-Meireles-25/Pedro-Meireles-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de programação | Foco em **Front-end**
 
-Here are some ideas to get you started:
+Desenvolvedor em formação, com foco em desenvolvimento web e aprendizado contínuo.  
+Experiência prática com **HTML, CSS e JavaScript**, aplicando boas práticas e organização de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias
+HTML • CSS • JavaScript   
+Git • GitHub • VS Code
+
+---
+
+## 🎯 Objetivo
+Atuar profissionalmente no desenvolvimento web front-end.
+
+---
+
+## 📫 Contato
+📧 pedrohpedro93@gmail.com  
+📱 +55(31)99989-7659  
+🔗 www.linkedin.com/in/pedro-henrique-sm
